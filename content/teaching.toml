@@ -1,10 +1,23 @@
 type = "card"
-title = "Teaching"
-description = "Courses I have taught or assisted with."
+title = "Skills"
+description = "A focused set of technologies I use across software engineering and research."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "Languages"
+content = "Python, TypeScript, JavaScript, C/C++, Java, and Linux kernel programming."
+tags = ["Python", "TypeScript", "C/C++", "Java"]
+
+[[items]]
+title = "Product Engineering"
+content = "React, Next.js, Node.js, FastAPI, REST APIs, and PostgreSQL."
+tags = ["React", "Next.js", "FastAPI", "PostgreSQL"]
+
+[[items]]
+title = "ML & AI"
+content = "Machine learning, computer vision, multimodal learning, reinforcement learning, and AI agents."
+tags = ["Machine Learning", "Computer Vision", "Multimodal AI", "AI Agents"]
+
+[[items]]
+title = "Infrastructure & Tools"
+content = "Docker, Kubernetes, Git, GitHub, Postman, and Linux development workflows."
+tags = ["Docker", "Kubernetes", "Git", "Linux"]

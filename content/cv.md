@@ -1,26 +1,12 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
-
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
-
-## Experience
-
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**University of California San Diego**
+- Math-CS / Cog Sci
+- Focused on machine learning systems, software engineering, and algorithms
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
-
-## Awards & Honors
-
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **Languages:** Python, TypeScript, JavaScript, C/C++, Java, Linux kernel programming
+- **Product Engineering:** React, Next.js, Node.js, FastAPI, REST APIs, PostgreSQL
+- **ML & AI:** Machine learning, computer vision, multimodal learning, reinforcement learning
+- **Infrastructure & Tools:** Docker, Kubernetes, Git, GitHub, Postman, Linux

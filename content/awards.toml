@@ -1,27 +1,27 @@
 type = "card"
-title = "Awards"
-description = "Honors and awards I have received."
+title = "Selected Projects"
+description = "A few projects that reflect my interests in useful software, interactive systems, and AI."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "Study Buddy"
+subtitle = "Full-stack study partner platform"
+content = "A campus-focused web app for finding study partners and groups, creating posts, commenting, searching users, and supporting private and group chat. I designed both the frontend and backend architecture and worked through real full-stack integration issues."
+tags = ["React", "Node.js", "Express", "MongoDB", "Socket.IO"]
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "Recollection"
+subtitle = "Multiplayer cooperative puzzle game"
+content = "A cooperative puzzle game about memory, communication, and solving challenges together. I contributed to both game design and technical implementation, including shared-control interactions and multiplayer logic."
+tags = ["Game Development", "Multiplayer", "Puzzle Design"]
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "Visual Reasoning with VLMs"
+subtitle = "Vision-language reasoning"
+content = "An AI project exploring how vision-language models reason over visual information, approach multi-step tasks, and reveal failure cases beyond simple image recognition."
+tags = ["VLMs", "Multimodal AI", "Reasoning"]
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Anime Generative Studio"
+subtitle = "Generative media and creative tooling"
+content = "A creative AI project exploring anime-style generation, visual model workflows, and the practical strengths and limitations of open-source generative models."
+tags = ["Generative AI", "Visual Models", "Creative Tools"]

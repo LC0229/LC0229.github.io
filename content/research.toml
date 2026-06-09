@@ -1,0 +1,9 @@
+type = "card"
+title = "Research"
+description = "My research interests sit at the intersection of machine learning, perception, and cognition."
+
+[[items]]
+title = "Machine Learning, Perception, and Cognition Lab"
+subtitle = "Student Researcher"
+content = "Working with Prof. Zhuowen Tu at UC San Diego's mlPC Lab. I am exploring research directions across machine learning, computer vision, deep learning, and multimodal learning, with an interest in models that can learn from structured, large-scale, and multi-modal data."
+tags = ["Machine Learning", "Computer Vision", "Multimodal Learning"]

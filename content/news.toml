@@ -1,7 +1,11 @@
 [[news]]
-date = "2025-11"
-content = "Our work has been accepted by a prestigious journal 🎉"
+date = "ML Systems"
+content = "Exploring how learning systems can become more capable, efficient, and adaptable."
 
 [[news]]
-date = "2025-09"
-content = "Starting my PhD at the University of Example"
+date = "Learning & Reasoning"
+content = "Interested in reinforcement learning, model improvement, and systems that learn from interaction."
+
+[[news]]
+date = "Multimodal AI"
+content = "Exploring models and agents that can understand, reason across, and act on different forms of information."

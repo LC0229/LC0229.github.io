@@ -1,9 +1,21 @@
 type = "card"
-title = "Services"
-description = "Professional services and community involvement."
+title = "Experience"
+description = "Practical engineering, research, and student development experience."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Helport"
+subtitle = "Software Engineering Intern"
+content = "Working in a product-oriented engineering environment on AI-enabled software systems. Gaining hands-on experience with backend services, containerized development, team collaboration, and production-focused engineering workflows."
+tags = ["Python", "Docker", "Kubernetes", "Git"]
+
+[[items]]
+title = "iOffer"
+subtitle = "Software Engineering Intern"
+content = "Built product features across an AI-powered education platform, including a React Flow workflow editor, student-facing dashboard views, and a backend case-experience crawler and query pipeline. Worked across a Next.js frontend and FastAPI backend, adding tests and integrating features with existing services."
+tags = ["TypeScript", "React", "FastAPI", "PostgreSQL"]
+
+[[items]]
+title = "CSES UCSD"
+subtitle = "Open-source student developer"
+content = "Contributed to student-led software projects while learning from real codebases, collaborating with other developers, and improving my engineering workflow."
+tags = ["Open Source", "TypeScript", "Collaboration"]
